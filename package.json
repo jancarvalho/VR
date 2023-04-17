@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.9.0"
+  },
+  "name": "TestrPratico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Janio Carvalho Ribeiro",
+  "license": "ISC",
+  "description": "Project about VR selection process for the position of QA Engineer",
+  "integrationFolder": "./cypress/integration",
+  "baseUrl": "www.vr.com.br"
+}
